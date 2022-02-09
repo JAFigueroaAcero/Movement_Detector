@@ -1,2 +1,2 @@
 # Movement_Detector
- Movement detector with pendulum trial
+ Movement detector used to a pendulum
